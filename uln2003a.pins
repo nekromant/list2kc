@@ -1,0 +1,24 @@
+~subparts 1
+:\dB:left:0
+:\dC:right:0
+:E:bot:0
+:COM:top:0
+
+[1:8]
+1B
+2B
+3B
+4B
+5B
+6B
+7B
+E
+[16:9]
+1C
+2C
+3C
+4C
+5C
+6C
+7C
+COM
